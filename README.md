@@ -7,6 +7,8 @@ I'm also open to using C#, SQL and more. I used to translate applications such a
   * React
   * Next.js
   * TypeScript
+  * Ruby
+  * Python
   * Docker
 
 If you wish to contact me you can do so via e-mail: [email@martinchoutka.cz](mailto:email@martinchoutka.cz)
