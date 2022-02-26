@@ -5,9 +5,7 @@ I'm also open to using C#, SQL and more. I translate applications such as [Bounc
 
 * 🌱 I’m currently learning: 
   * TypeScript
-  * GraphQL
   * Redux
-  * Python
 
 I used to do 3D models and drawings related to engineering. Check out my profile on [GrabCAD](https://grabcad.com/martin.choutka-1).
 
