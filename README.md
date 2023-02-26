@@ -16,4 +16,4 @@ Have a great day!
 > 
 > - Linux will have a seizure
 >
-> Might save you the wondering why Docker image won't build correctly
+> Might save you the wondering why Docker image won't build correctly 🤦
