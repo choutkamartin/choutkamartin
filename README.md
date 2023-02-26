@@ -9,7 +9,7 @@ If you wish to contact me you can do so via e-mail: [email@martinchoutka.cz](mai
 
 Have a great day!
 
-Pro tip
+#### Pro tip
 > Always check the capitalization of your imports. If the capitalization is wrong, then:
 > 
 > - Windows will be okay
