@@ -1,19 +1,11 @@
-### Hey! 👋
-I'm Martin. A full-stack developer.
+### Hey there! 👋
+I'm Martin, a full-stack developer passionate about building clean, reliable software.
 
-I used to translate applications such as [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission) or [Bitwarden](https://bitwarden.com/). 
+👨‍💻 Outside of coding:
+- 🔐 I’ve helped translate popular apps like [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission) and [Bitwarden](https://bitwarden.com/).
+- 🛠️ I used to design 3D models and technical drawings for engineering projects. You can check out my work on [GrabCAD](https://grabcad.com/martin.choutka-1).
 
-I used to do 3D models and drawings related to engineering. Check out my profile on [GrabCAD](https://grabcad.com/martin.choutka-1).
+#### 📫 Get in Touch
+Want to collaborate or just say hi?
 
-If you wish to contact me you can do so via e-mail: [email@martinchoutka.cz](mailto:email@martinchoutka.cz)
-
-Have a great day!
-
-#### Pro tip
-> Always check the capitalization of your imports. If the capitalization is wrong, then:
-> 
-> - Windows will be okay
-> 
-> - Linux will have a seizure
->
-> Might save you the wondering why Docker image won't build correctly 🤦
+Shoot me an email: [email@martinchoutka.cz](mailto:email@martinchoutka.cz)
